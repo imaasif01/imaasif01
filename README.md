@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aasif</h1>
-<h3 align="center">I'm a passionate designer and developer who loves making beautiful</h3>
+<h3 align="center">I'm a passionate designer & developer who loves making beautiful, functional web & mobile application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaasif01&label=Profile%20views&color=0e75b6&style=flat" alt="imaasif01" /> </p>
 
